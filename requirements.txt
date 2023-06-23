@@ -25,7 +25,7 @@ kiwisolver==1.4.4
 lxml==4.9.2
 matplotlib==3.7.1
 matplotlib-inline==0.1.6
--e git+https://github.com/TomDecroos/matplotsoccer.git@fac4c5554d873f57a8997d735220da653bb3593b#egg=matplotsoccer
+-e git+https://github.com/francescozonaro/matplotsoccer.git@9993afd6105390f9e2433fa667b5e6d842de0a87#egg=matplotsoccer
 mplsoccer==1.1.12
 mypy-extensions==1.0.0
 nest-asyncio==1.5.6
